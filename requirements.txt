@@ -1,0 +1,6 @@
+streamlit
+pandas
+neattext
+python-utils
+pycountry
+requests
